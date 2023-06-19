@@ -12,7 +12,9 @@ h5{
 #discografia {
   margin-bottom: 200px;
 }
-
+textarea {
+  resize: none;
+}
 #Conhecendo_o_artista {
   margin-bottom: 200px;
 }

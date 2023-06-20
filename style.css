@@ -8,7 +8,9 @@
 h5{
   font-family: "Rubik" ;
 }
-
+textarea {
+	resize: none;
+}
 #discografia {
   margin-bottom: 200px;
 }

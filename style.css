@@ -8,7 +8,7 @@
 h5{
   font-family: "Rubik" ;
 }
-textarea {
+input[type="textarea"], textarea {
 	resize: none;
 }
 #discografia {
